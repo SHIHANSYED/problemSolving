@@ -14,7 +14,7 @@ import java.util.Scanner;
 //Sum of 12's digits:
 //        1 + 2 = 3
 
-public class sumOfDigits {
+public class SumOfDigits {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
